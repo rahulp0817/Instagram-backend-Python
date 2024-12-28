@@ -2,9 +2,9 @@
 
 ## How to Execute
 - Create an env environment
-   `•	python -m venv .venv`
+   `python -m venv .venv`
 - Activate the environment
-   `•	source .venv/Scripts/activate (bash)`
+   `source .venv/Scripts/activate (bash)`
 - Install all dependencies
 - Run the program 
    `Uvicorn app.main:app`
